@@ -1,0 +1,93 @@
+.display_block {
+	margin-left: 40px ! important;
+	margin-right: 40px ! important;
+}
+
+.form-control {
+	height: 27px ! important;
+	/* width: 80% ! important; */
+}
+
+.btn {
+	border-radius: 18px ! important;
+	line-height: 15px;
+}
+
+.btn-default.focus, .btn-default:focus, .btn-primary:focus {
+	outline: 0px ! important;
+}
+
+label {
+	/* border: 1px solid black; */
+	line-height: 20px;
+	max-height: 100%;
+}
+
+/* date-picker-class  */
+.ui-datepicker-calendar .ui-state-default {
+	border: 0px solid #c5c5c5 !important;
+	background: white !important;
+}
+
+.ui-datepicker-calendar .ui-state-highlight .ui-state-active {
+	background: #007fff !important;
+	font-weight: 200 !important;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active {
+	background-color: #337ab7;
+}
+
+.ui-datepicker-trigger {
+	position: relative;
+	top: -25px;
+	right: 5px;
+	float: right ! important;
+	width: 20px;
+	height: 20px !important;
+}
+
+
+/* .table.dataTable.no-footer {
+	border-bottom: 0px solid #111 !important;
+	border-top: none ! important;
+} */
+.modal-header {
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+	padding-left: 5px !important;
+	padding-right: 10px !important;
+}
+
+.modal-footer {
+	padding: 8px ! important;
+}
+
+.zeroMrgbtm {
+	margin-buttom: 0px ! important;
+}
+
+.diplay-border {
+	border: 1px solid #c5c5c5;
+	padding: 10px;
+}
+
+.btn-right-div {
+	padding: 10px 0px;
+}
+
+.btn-calender-table {
+	position: relative;
+	top: 3px;
+	right: -2px;
+	float: right ! important;
+}
+
+.my-input-class {
+	width: 105px;
+}
+
+
+.table_datepicker .ui-datepicker-trigger {
+	top: 0px ! important;
+}
